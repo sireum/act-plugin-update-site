@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Sireum ACT Update Site">
+      Sireum ACT Update Site
+   </description>
+   <feature url="features/org.sireum.aadl.osate.act.feature_1.0.0.201812291753.jar" id="org.sireum.aadl.osate.act.feature" version="1.0.0.201812291753">
+      <category name="org.sireum.aadl.osate.category"/>
+   </feature>
+   <category-def name="org.sireum.aadl.osate.category" label="Sireum">
+      <description>
+         Sireum features
+      </description>
+   </category-def>
+</site>
