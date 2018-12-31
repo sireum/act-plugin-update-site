@@ -6,7 +6,7 @@
     <property name='p2.timestamp' value='1243822502440'/>
   </properties>
   <children size='2'>
-    <child location='https://raw.githubusercontent.com/sireum/osate-plugin-update-site/master/org.sireum.aadl.osate.update.site/'/>
-    <child location='https://raw.githubusercontent.com/sireum/act-plugin-update-site/master/org.sireum.aadl.osate.act.update.site/'/>
+    <child location='https://raw.githubusercontent.com/sireum/osate-plugin-update-site/master/org.sireum.aadl.osate.update.site/site.xml'/>
+    <child location='https://raw.githubusercontent.com/sireum/act-plugin-update-site/master/org.sireum.aadl.osate.act.update.site/site.xml'/>
   </children>
 </repository>
