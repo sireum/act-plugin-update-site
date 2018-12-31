@@ -5,7 +5,7 @@
 2. Navigate to ``Help > Install New Software ...``
 3. Click ``Add...`` and in the ``Location:`` field paste the following URL
 
-    https://raw.githubusercontent.com/sireum/act-plugin-update-site/master/org.sireum.aadl.osate.update.site.act/site.xml
+    https://raw.githubusercontent.com/sireum/act-plugin-update-site/master/
   
 4. Check the box for ``Sireum ACT Plugin`` and click ``Finish``
 
